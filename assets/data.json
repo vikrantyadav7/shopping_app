@@ -1,0 +1,36 @@
+[
+  {
+    "p_image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.qEvRk2ip9vubQ-_xnfTj1AHaFj%26pid%3DApi&f=1",
+    "p_name":"Apple",
+    "p_id":1,
+    "p_cost":30,
+    "p_availability":1,
+    "p_details":"Imported from Swiss",
+    "p_category":"Premium"
+  },
+  {
+    "p_image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.l5ZNKHxygp8AHCJbVwlUaAHaE8%26pid%3DApi&f=1",
+    "p_name":"Mango",
+    "p_id":2,
+    "p_cost":50,
+    "p_availability":1,
+    "p_details":"Farmed at Selam",
+    "p_category":"Tamilnadu"
+  },
+  {
+    "p_image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.hRWr-pLb_cF-gOn31CCSJgHaHa%26pid%3DApi&f=1",
+    "p_name":"Bananna",
+    "p_id":3,
+    "p_cost":5,
+    "p_availability":0
+  },
+  {
+    "p_image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.FFvWgkIBYYekEc8BVt_wHgHaFW%26pid%3DApi&f=1",
+    "p_name":"Orange",
+    "p_id":4,
+    "p_cost":25,
+    "p_availability":1,
+    "p_details":"from Nagpur",
+    "p_category":"Premium"
+  }
+]
